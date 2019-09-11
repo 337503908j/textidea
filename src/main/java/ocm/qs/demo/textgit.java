@@ -10,4 +10,8 @@ public class textgit {
         System.out.println(11111111);
 
     }
+
+    public void add(){
+        System.out.println("222222222222222");
+    }
 }
